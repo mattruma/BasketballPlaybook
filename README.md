@@ -4,7 +4,7 @@ This document contains descriptions of the different basketball offensive and de
 
 ## Table of Contents
 
-* Team Contract
+* [Team Contract](Contract.md)
 * Offense
 * Defense
 * Terms and Definitions
