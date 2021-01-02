@@ -1,6 +1,6 @@
 # Team Contract
 
-As a member of the Bloomfield Christian Defenders, I promise to:
+As a member of the basketball team, I promise to:
 
 - Always give my best.
 
